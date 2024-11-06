@@ -1,0 +1,19 @@
+#!name=Talkatone
+#!desc=Talkatone 去广告规则集
+# 本规则集为 Talkatone APP 内部分去广告规则
+# 整理作者：https://t.me/LOWERTOP
+# 仓库地址：https://github.com/LOWERTOP/Shadowrocket-First
+# 反馈渠道：https://t.me/ShadowrocketApp
+# 类型选择：RULE-SET
+# 策略建议：REJECT-DROP
+
+DOMAIN-SUFFIX,ads.inmobi.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,tappx.com
